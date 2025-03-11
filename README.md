@@ -21,7 +21,7 @@ Três **recursos** são importantes para esse experimento:
 
 # Crie um arquivo readme.md descrevendo o passo a passo para se configurar uma pesquisa, assim como seus insights, possibilidades de ferramentas que se beneficiam com esse tipo de ferramenta e aprendizados adquiridos durante o processo.
 
-⭐️ A minha sugestão é deixar toda a plataforma em inglês ⭐️
+
 
 ### Passo a passo para se configurar uma pesquisa
 
