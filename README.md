@@ -1,7 +1,6 @@
 # Azure-Cognitive-Search
 Utilizando AI Search para indexação e consulta de Dados
-# Repo: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
-### Objetivo
+
 
 Repositório criado para entregar o projeto final da etapa: Azure Cognitive Search - Utilizando AI Search para indexação e consulta de Dados.
 
